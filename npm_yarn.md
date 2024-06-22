@@ -1,4 +1,4 @@
-## yarn과 npm
+# yarn과 npm
 
 ### 공통적인 특징
 
@@ -22,9 +22,9 @@
 
 - 속도와 보안 모두 yarn이 좋음
 
-### 명령어
+## 명령어
 
-1. npm
+### 1. npm
 
 - dependencies 설치: npm install
 - 패키지 설치: npm install [패키지명]
@@ -36,7 +36,7 @@
 - 업데이트: npm update
 - 패키지 업데이트: upm update [패키지명]
 
-2. yarn
+### 2. yarn
 
 - dependencies 설치: yarn
 - 패키지 설치: yarn add [패키지명]
