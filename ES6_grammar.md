@@ -56,3 +56,11 @@ const {name,age} = person;
 
 - 무조건 함수선언 시 function (){}; 구조 명심
 - return 할 수식이 1줄이면 return문 생략이 가능. 하지만!!! 중괄호도 빼줘야 함
+
+## Default Parameters
+
+- 함수 매개변수에 기본값을 설정할 수 있습니다.
+
+## Rest Parameters
+
+- 여러 개의 인수를 배열로 받을 수 있습니다.
